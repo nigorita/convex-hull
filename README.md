@@ -13,10 +13,10 @@ It supports two execution modes:
 ---
 ## Usage
 
-**performance:
+- **performance**:
 	python convex_hull.py --mode performance --input random --n 10000
 
-**visual:
+- **visual**:
 	python convex_hull.py --mode visual --input random --n 50
 
 
