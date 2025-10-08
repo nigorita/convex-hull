@@ -14,8 +14,9 @@ It supports two execution modes:
 ## Usage
 
 **performance:
-	.venv/bin/python convex_hull.py --mode performance --input random --n 10000
+	python convex_hull.py --mode performance --input random --n 10000
 
 **visual:
-	.venv/bin/python convex_hull.py --mode visual --input random --n 100
+	python convex_hull.py --mode visual --input random --n 50
+
 
